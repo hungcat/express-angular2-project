@@ -26,7 +26,5 @@ npm run init
 npm run start
 ```
 
-## Usage
-
 ## Author
 [hungcat](https://github.com/hungcat)
