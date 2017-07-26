@@ -1,3 +1,6 @@
+# Transpiled data
+/dist
+
 # Logs
 logs
 *.log
