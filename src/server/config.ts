@@ -1,1 +1,2 @@
-export const serverPort = '3000';
+import { ServerConfig } from '../config';
+export = ServerConfig;
